@@ -55,4 +55,4 @@ jobs:
         with:
           directory: "."
           force: true
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.TOKEN }}
